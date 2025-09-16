@@ -39,6 +39,6 @@ hola
 ```
 
 
-#no se que pone pero ahi esta la foto
+# no se que pone pero ahi esta la foto
 
 ![](https://user-images.githubusercontent.com/63996691/185649897-b7609626-ee6d-42b1-bc5e-4465cb41a19a.png)
