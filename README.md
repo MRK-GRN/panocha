@@ -1,4 +1,4 @@
 # panocha
 pues eso *lokotron*
 
-(1234567890)[https://google.com]
+[hola](https://google.com)
