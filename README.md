@@ -1,10 +1,6 @@
 # panocha
 pues eso *lokotron*
 
-[hola](https://google.com)
+[hola](https://xionix.dev)
 
-///
-sad
-sad
-aas
-///
+**yep**
